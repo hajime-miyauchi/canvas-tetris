@@ -1,5 +1,9 @@
 このリポジトリは https://github.com/dionyziz/canvas-tetris がオリジナルです。
 
+下記URLでプレイできます。
+
+https://hajime-miyauchi.github.io/canvas-tetris/
+
 オリジナルのソースコードのLicense
 =======
 This version of tetris is MIT licensed:
