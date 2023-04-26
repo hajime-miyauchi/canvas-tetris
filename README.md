@@ -1,4 +1,4 @@
-このリポジトリは(https://github.com/dionyziz/canvas-tetris)がオリジナルです。
+このリポジトリは https://github.com/dionyziz/canvas-tetris がオリジナルです。
 
 オリジナルのソースコードのLicense
 =======
